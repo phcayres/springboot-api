@@ -18,7 +18,7 @@ Use the JSON structure bellow to send customer informations to POST and PUT HTTP
 # HTTP GET
 ```sh
 * HTTP GET /api/v1/Customer : return all customers as a Iterable<Customer>
-* HTTP GET /api/v1/Customer/{customerId} : return a customer by id as Customer
+* HTTP GET /api/v1/Customer/{customerId} : return a customer by id as a Customer
 ```
 # HTTP POST
 ```sh
