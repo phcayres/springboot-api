@@ -17,8 +17,8 @@ Use the JSON structure bellow to send customer informations to POST and PUT HTTP
 ## Example request URIs
 # HTTP GET
 ```sh
-* HTTP GET /api/v1/Customer : return all customers as a Iterable<Customer>
-* HTTP GET /api/v1/Customer/{customerId} : return a customer by id as a Customer
+* HTTP GET /api/v1/Customer : return all customers as a JSON
+* HTTP GET /api/v1/Customer/{customerId} : return a customer by id as a JSON
 ```
 # HTTP POST
 ```sh
